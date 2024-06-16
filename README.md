@@ -44,11 +44,6 @@ To set up the Book Recommendation System on your local machine, follow these ste
    ```sh
    cd BookRecommendationSystem
 
-3. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
-
-
 ## Usage
 
 1. Run the Flask Application
